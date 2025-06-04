@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
+Buck at RMWC,/buck_rmwc.html
+Image Browse,/browse.html,
 Subjects,/subjects.html,
 Timeline,/timeline.html,
-Testfile,/title-of-your-page.html
 Data,/data.html,
 About,/about.html,

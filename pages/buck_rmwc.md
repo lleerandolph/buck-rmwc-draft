@@ -1,7 +1,7 @@
 ---
 title: Test file
-layout: page
-permalink:/title-of-your-page.html 
+layout: about
+permalink:/buck_rmwc.html
 ---
 
 ## Put in a placeholder header
