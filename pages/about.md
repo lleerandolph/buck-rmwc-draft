@@ -9,28 +9,26 @@ about-featured-image: buck007
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: About the Archives
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
+toc: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About the Collection
+## About the Items in this Collection
 
-This collection features items from the Randolph-Macon Woman's College & Randolph College [Archives](https://library.randolphcollege.edu/archives), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This site features images and documents from the Randolph-Macon Woman's College & Randolph College [Archives](https://library.randolphcollege.edu/archives), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The Randolph-Macon Woman's College & Randolph College Archives exist as a special collection through the efforts of Roberta Douglas Cornelius, Class of 1909, author of The History of Randolph-Macon Woman’s College, Professor of English, and the sole person to hold the title of College Archivist. Her papers comprise the only subject index to the history of the college.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Many college publications are preserved in the Archives such as the College Catalog, the Sundial, the Helianthus, the Student Handbook, and student literary magazines. In addition, with the remodeling of the Smith Memorial Building in 1985, the Alumnae Association contributed student scrapbooks and memorabilia. At the same time, the Office of College Relations augmented the photograph file and newspaper clippings file with many items from the 1960s, 1970s, and 1980s; and has continued providing the library with photos dating to the early 2000s. The Archives also include published material by college faculty and alumni.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="buck040" width="75" %}
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+### Technical Credits - CollectionBuilder
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+This digital collection is built with [CollectionBuilder](https://collectionbuilder.github.io/), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
