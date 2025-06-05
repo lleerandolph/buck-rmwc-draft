@@ -29,6 +29,14 @@ Many college publications are preserved in the Archives such as the College Cata
 
 {% include feature/image.html objectid="buck040" width="75" %}
 
+## About the Narriative
+
+The narriative of this site was adapted from the paper, *Years Around the Even Post: Pearl S. Buck and her Alma Mater* by Joy Elizabeth Abbot, class of 1992.  Ms. Abbot's paper was presented at the Pearl S. Buck Centennial Symposium held at Randolph-Macon 
+Woman's College on March 26-28, 1992. It was prepared by Ms. Abbot as an 
+independent study under the supervision of Frances E. Webb, Reference Librarian.
+
+{% include feature/image.html objectid="buck032" width="75" %}
+
 ### Technical Credits - CollectionBuilder
 
 This digital collection is built with [CollectionBuilder](https://collectionbuilder.github.io/), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
