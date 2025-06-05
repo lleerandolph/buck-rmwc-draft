@@ -35,6 +35,7 @@ Fortunately, she soon met Emma Edmunds who would become a lifelong friend.  Emma
 
 While Emma entered a sorority, Pearl joined the Franklin Literary Society, a society which conducted dramatic readings and encouraged writing competitions.  Thus began Pearl's writing career.  During her freshman year, she published her first story titled "The Real Santa Claus" in the college's literary magazine, *The Tattler*.
 
+{% include feature/image.html objectid="buck001" width="75" %}
 
 A philosophy major, she was active in student government and the YWCA and wrote for the college's literary magazine, *The Tattler* and yearbook, *The Helianthus*.
 
