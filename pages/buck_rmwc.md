@@ -51,6 +51,28 @@ Eastern Lullaby," and "Song of the Sun," many of which were a constant reminder 
 
 {% include feature/image.html objectid="buck017;buck016;buck009" width="5075" %}
 
+While Pearl accomplished much during her years at R-MWC, this was not the happiest period of her life and she continued to live in two different worlds.  Even her graduation proved to be a disappointment.
+
+*"So I came to the end of college and took my place in the long procession of graduates. I received my diploma, lonely to know that my parents were not in the chapel crowded with other parents, although by then I was used to loneliness of that sort... My attempt, successful enough in its own way, to be like other American girls, was not permanent, I fear, and after my graduation I was faced with my two worlds again" (My Several Worlds, 96).* 
+
+After graduation, Pearl was offered a teaching assistant position at the college, but returned to China within a few months after receiving news of her mother's illness.  It was not until later in life that Pearl appreciated her years at the school.  She continued her friendship with Emma Edmunds, and returned on several occasions to the college. 
+
+{% include feature/image.html objectid="buck023;buck024;buck025" width="75" %}
+
+In 1935, she wrote a plea to the alumnae for their support in creating a rare book room at the college, which was established shortly after her article in the *Alumnae Bulletin* was published.  In 1939 she was elected to the Phi Beta Kappa Chapter established at R-MWC in 1917, three years following her graduation. 
+
+In 1964, President William Quillian invited Pear back to campus to give the 1964 commencement address, to mark the fiftieth anniversary of her graduation.
+
+{% include feature/image.html objectid="buck030" width="50" %}
+
+*"The whole purpose of education is first to prepare you with essential knowledge 
+for the next stage in your life and then to persuade, coerce and convince you to use 
+that knowledge in the hope that you will not, because of ignorance, be a 
+destructive force to yourself and to others. Of course you will forget details and 
+facts, but all these years of learning in the areas of human knowledge will compel 
+you nevertheless to remember at least where essential knowledge is to be found, or 
+even re-discovered when you need it."* 
 
 
-Although she had learned to be comfortable, adapted, and involved while at R-MWC, it was not the happiest time in her life. She continued to grow among other students, yet remained an outsider. It was not until her later years that she came to appreciate her years at this school. She continued her friendship with Emma Edmunds, and returned on several occasions to the college. 
+
+
