@@ -52,8 +52,8 @@ metadata: buck_dhsl_project
 #
 organization-name: "Randolph College, Lipscomb Library"
 organization-link: https://library.randolphcollege.edu/home
-organization-logo-banner: https://d2jv02qf7xgjwx.cloudfront.net/customers/3391/images/Randolph_Logo_library_black.png
-organization-logo-nav: https://d2jv02qf7xgjwx.cloudfront.net/customers/3391/images/Randolph_Logo_library_white.png
+organization-logo-banner: /assets/img/randolph_logo_library_black.png
+organization-logo-nav: /assets/img/randolph_logo_library_white.png
 
 ##########
 # ROBOTS EXCLUDE
