@@ -19,7 +19,7 @@ toc: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## Coming to Randolph-Macon Woman's College
+## Pearl Sydenstricker Buck and her alma mater
 
 Pearl Sydenstricker Buck was born in Hillsboro, West Virginia, on June 26, 1892, to Presbyterian missionary parents. Her family returned to China when she was an infant, and she spent her early years in the city of Zhenjiang. Buck received her early education from her mother and a Chinese Confucian scholar, later attending missionary schools and a high school in Shanghai. 
 
